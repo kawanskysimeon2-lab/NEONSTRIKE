@@ -11,8 +11,8 @@
 // 4. Copie a "Project URL" e a "anon public key" e cole abaixo
 // 5. Rode o SQL do arquivo schema.sql no "SQL Editor" do Supabase
 // ===========================================================
-const SUPABASE_URL = 'COLE_SUA_URL_AQUI';       // ex: https://xxxxx.supabase.co
-const SUPABASE_ANON_KEY = 'COLE_SUA_CHAVE_AQUI'; // chave "anon public"
+const SUPABASE_URL = 'https://xlgvpuoryymwbtvaicvx.supabase.co';       // ex: https://xxxxx.supabase.co
+const SUPABASE_ANON_KEY = 'sb_publishable_ZvioJPsz0Re-swC95aqibA_2oQPyxVN'; // chave "anon public"
 
 let db = null;
 try {
